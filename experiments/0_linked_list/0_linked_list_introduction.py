@@ -30,3 +30,9 @@ llist.head.next = second_node
 second_node.next = third_node
 
 llist.print_list()
+
+
+# OUTPUT
+# Node =>  ahmed
+# Node =>  faraz
+# Node =>  adil
